@@ -13,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class AmazonWithNJunit {
+	
       WebDriver driver=null;
 	@Before
 	public void setUp() throws Exception {
